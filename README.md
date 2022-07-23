@@ -41,3 +41,8 @@ I store the trained data in .pkl file and use it for predict urls are legitimate
 
 ### -> Future Updates
 I will use neural network and deep learing techniques to predict urls more accurately. Project can be further extended to creation of browser extention (for chrome, brave, Firefox etc) to help Users by adding it to browser extension to detect Phishing URLs .
+
+
+*********************************************************************************************************************************************************************
+## **in this above PDF I explained this project in detail**
+[Phising Detection Using ML.pdf](https://github.com/Cydev007/Phising-Url-Detection-Using-Machine-Learning-/files/9173583/Phising.Detection.Using.ML.pdf)
