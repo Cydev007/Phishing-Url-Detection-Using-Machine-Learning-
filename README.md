@@ -12,7 +12,7 @@ The objective of this project is to train machine learning models and deep neura
 **URL Dataset**
 The set of phishing and Legitimate URLs are collected from opensource service called **Kaggle** , **Phistank** , **Phistrom**. These service provide a set of phishing  and legitimate URLs in multiple formats like csv, json etc. I combined the data from these services. From this dataset, 549347 random phishing and legitimates URLs are collected to train the ML models and they are labeled as Good and Bad.
 
-The above mentioned datasets are uploaded to (dataset url) folder of this repository.
+The above mentioned datasets are uploaded to https://github.com/Cydev007/Phising-Url-Detection-Using-Machine-Learning-/blob/main/phishing_site_urls.zip of this repository.
 
 ## Preprocessing
 Data preprocessing can refer to manipulation or dropping of data before it is used in order to ensure or enhance performance, and is an important step in the data mining process. I use RegexpTokenizer  to tokenized words. And use CountVectorizer  to transform a corpora of text to a vector of term / token counts.
