@@ -44,5 +44,5 @@ I will use neural network and deep learing techniques to predict urls more accur
 
 
 *********************************************************************************************************************************************************************
-## **in this above PDF I explained this project in detail**
+## **In this PDF I explained this project in detail**
 [Phising Detection Using ML.pdf](https://github.com/Cydev007/Phising-Url-Detection-Using-Machine-Learning-/files/9173583/Phising.Detection.Using.ML.pdf)
