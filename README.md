@@ -38,14 +38,6 @@ I store the trained data in .pkl file and use it for predict urls are legitimate
 ->Brave Browser 
 
 
-->>> Documentation
-The Write-up Documentation for this project is named "DETECTING PHISHING URLs USING MACHINE LEARNING.pdf"
 
-
--> ML work 
-The ML work folder consist of "Dataset" and "Jupyter notebook of the project" as stated above 
-** Phishing Website Detection Training & Testing Models on Datasets.ipynb **
-** URL_Feature_Extraction_from_Datasets.ipynb **
-
--> Extend This Project
-I will use nural network and deep learing techniques to predict urls more accurately. Project can be further extended to creation of browser extention (for chrome, brave, Firefox etc) to help Users by adding it to browser extension to detect Phishing URLs .
+### -> Future Updates
+I will use neural network and deep learing techniques to predict urls more accurately. Project can be further extended to creation of browser extention (for chrome, brave, Firefox etc) to help Users by adding it to browser extension to detect Phishing URLs .
