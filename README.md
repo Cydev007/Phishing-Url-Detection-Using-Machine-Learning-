@@ -3,7 +3,7 @@
 Phishing is one of the internet security problems that target the human vulnerabilities rather than software vulnerabilities.
 
 ## Introduction
-Phising attack can be described as the process of attracting online users to obtain their sensitive information such as usernames and passwords. Phishers try to deceive their victims by social engineering or creating mockup websites to steal information such as account ID, username, password from individuals and organizations. 
+Phishing attack can be described as the process of attracting online users to obtain their sensitive information such as usernames and passwords. Phishers try to deceive their victims by social engineering or creating mockup websites to steal information such as account ID, username, password from individuals and organizations. 
 
 ## Objective
 The objective of this project is to train machine learning models and deep neural network on the dataset created to predict phishing websites. Both phishing and legitimate URLs of websites are gathered to form a dataset and from them required URL and basic features are extracted. 
@@ -15,7 +15,7 @@ The set of phishing and Legitimate URLs are collected from opensource service ca
 The above mentioned datasets are uploaded to https://github.com/Cydev007/Phising-Url-Detection-Using-Machine-Learning-/blob/main/phishing_site_urls.zip of this repository.
 
 ## Preprocessing
-Data preprocessing can refer to manipulation or dropping of data before it is used in order to ensure or enhance performance, and is an important step in the data mining process. I use RegexpTokenizer  to tokenized words. And use CountVectorizer  to transform a corpora of text to a vector of term / token counts.
+Data preprocessing can refer to manipulation or dropping of data before it is used in order to ensure or enhance performance, and is an important step in the data mining process. To process the data for training I use some basic technique of NLP(Natural Language Processing). I use RegexpTokenizer  to tokenized words. And use CountVectorizer  to transform a corpora of text to a vector of term / token counts.
 
 ## Models & Training
 
