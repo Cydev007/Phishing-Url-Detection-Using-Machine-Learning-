@@ -1,4 +1,4 @@
-# Phising-Url-Detection-Using-Machine-Learning-
+# Phishing-Url-Detection-Using-Machine-Learning-
 
 Phishing is one of the internet security problems that target the human vulnerabilities rather than software vulnerabilities.
 
